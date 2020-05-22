@@ -1,6 +1,6 @@
 # mvcProyecto
 
-si presenta un error es por la base de datos, 
+si presenta un error es por la base de datos (la base de datos esta en Dump20200521.rar), 
 por favor cambiar las credenciales en modelo/conexion... 
 y poner las de su base de dato.
 
